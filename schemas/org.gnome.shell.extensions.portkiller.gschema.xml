@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.portkiller" path="/org/gnome/shell/extensions/portkiller/">
+    <key name="refresh-interval-seconds" type="i">
+      <default>5</default>
+      <summary>Refresh interval in seconds</summary>
+      <description>How often the extension refreshes the local listening TCP ports.</description>
+    </key>
+    <key name="max-visible-items" type="i">
+      <default>25</default>
+      <summary>Maximum visible items</summary>
+      <description>Maximum number of port rows shown in the menu before truncation.</description>
+    </key>
+  </schema>
+</schemalist>

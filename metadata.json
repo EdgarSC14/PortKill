@@ -1,0 +1,9 @@
+{
+  "uuid": "portkiller@productdevbook",
+  "name": "PortKiller",
+  "description": "Monitor and kill local TCP ports from the top bar.",
+  "version": 2,
+  "shell-version": ["46"],
+  "url": "https://github.com/productdevbook/port-killer",
+  "settings-schema": "org.gnome.shell.extensions.portkiller"
+}
